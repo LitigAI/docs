@@ -3,16 +3,16 @@
   "theme": "mint",
   "name": "LITIG AI",
   "colors": {
-    "primary": "#16A34A",
+    "primary": "#03206e",
     "light": "#07C983",
     "dark": "#15803D"
   },
   "favicon": "/favicon.svg",
   "navigation": {
     "pages": [
-      "introduction", 
-      "glossary",
-      "team"
+      "introduction",
+      "team",
+      "glossary"
     ]
   },
   "logo": {
